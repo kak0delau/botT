@@ -2,7 +2,7 @@ import telebot
 import time
 from config import TOKEN
 
-bot = telebot.TelBot(TOKEN)
+bot = telebot.TeleBot(TOKEN)
 
 
 
